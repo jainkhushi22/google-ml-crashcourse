@@ -4,3 +4,5 @@ My ML Crash Course Repo
 
 🏅 [Google ML Crash Course – Linear Regression](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/linear-regression)
 
+🏅 [Google ML Crash Course – Logistic Regression](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/logistic-regression)
+
